@@ -38,7 +38,7 @@ module.exports = async function handler(req, res) {
 
         const response = await client.responses.create({
 
-            model: "gpt-5.6-luna",
+            model: "gpt-5.6-terra",
 
             instructions: `
 You are Nacho Fence AI, the customer assistant for Nacho Fence.
