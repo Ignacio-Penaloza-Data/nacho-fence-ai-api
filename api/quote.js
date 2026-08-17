@@ -1,3 +1,5 @@
+
+// deploy trigger.
 module.exports = async function handler(req, res) {
 
     // Allow your website to call this API
