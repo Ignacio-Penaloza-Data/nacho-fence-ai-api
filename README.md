@@ -1,8 +1,8 @@
 # Nacho Fence AI API
 
 Backend API powering the AI chat assistant and quote request system for the
-[Nacho Fence](https://nacho-fence-website.vercel.app) website — a fence
-installation and repair company.
+[Nacho Fence](https://nachofence.com) website — a fence installation and
+repair company.
 
 ## What it does
 
